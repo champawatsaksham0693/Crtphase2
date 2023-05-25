@@ -5,7 +5,7 @@
     Time Complexity = O(NlogN)
     Space Complexity = O(N)
     // Very Very Important point  apply binary search on monotonus search space (yyyynnnnnn...) or monotonus(nnnnyyyyy...) 
-    // We can't apply binary search on non-monotonus search space 
+    // We can't apply binary search on non-monotonus search space (nnnnnyyyyynnnnn)
     method 1 :- binary search + prefix sum (use only this)
     method 2 :- two pointers 
     Output is 3
